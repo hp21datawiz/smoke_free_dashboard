@@ -1,0 +1,8 @@
+google-cloud-bigquery
+google-cloud-logging
+pandas
+pandas_gbq
+pyarrow
+google-cloud-bigquery[opentelemetry] 
+opentelemetry-exporter-google-cloud
+google-cloud-bigquery-storage
